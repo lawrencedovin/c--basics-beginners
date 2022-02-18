@@ -1,0 +1,8 @@
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
