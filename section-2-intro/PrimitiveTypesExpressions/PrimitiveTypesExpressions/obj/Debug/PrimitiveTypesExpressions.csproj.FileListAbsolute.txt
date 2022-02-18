@@ -1,0 +1,8 @@
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\PrimitiveTypesExpressions\PrimitiveTypesExpressions\bin\Debug\PrimitiveTypesExpressions.exe.config
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\PrimitiveTypesExpressions\PrimitiveTypesExpressions\bin\Debug\PrimitiveTypesExpressions.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\PrimitiveTypesExpressions\PrimitiveTypesExpressions\bin\Debug\PrimitiveTypesExpressions.pdb
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\PrimitiveTypesExpressions\PrimitiveTypesExpressions\obj\Debug\PrimitiveTypesExpressions.csproj.AssemblyReference.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\PrimitiveTypesExpressions\PrimitiveTypesExpressions\obj\Debug\PrimitiveTypesExpressions.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\PrimitiveTypesExpressions\PrimitiveTypesExpressions\obj\Debug\PrimitiveTypesExpressions.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\PrimitiveTypesExpressions\PrimitiveTypesExpressions\obj\Debug\PrimitiveTypesExpressions.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-2-intro\PrimitiveTypesExpressions\PrimitiveTypesExpressions\obj\Debug\PrimitiveTypesExpressions.pdb
