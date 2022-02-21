@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -50,12 +51,22 @@ c:\folder2\folder3";
             System.Console.WriteLine(text);
             */
 
+            /*
             var method = ShippingMethod.RegularAirMail;
             System.Console.WriteLine(method);
             System.Console.WriteLine((int)method);
 
             var methodId = 3;
             System.Console.WriteLine((ShippingMethod)methodId);
+
+            System.Console.WriteLine(method.ToString());
+
+            var methodName = "Express";
+            var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
+            */
+
+
+            
         }
     }
 }
