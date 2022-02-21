@@ -5,6 +5,12 @@ using System.Threading.Tasks;
 
 namespace NonPrimitiveTypes
 {
+    public enum ShippingMethod
+    {
+        RegularAirMail = 1,
+        RegisteredAirMail = 2,
+        Express = 3
+    }
     internal class Program
     {
         static void Main(string[] args)
@@ -23,7 +29,7 @@ namespace NonPrimitiveTypes
                 System.Console.WriteLine(numbers[i]);
             }*/
 
-            var firstName = "Lawrence";
+            /* var firstName = "Lawrence";
             var middleName = "Refundo";
             var lastName = "Dovin";
 
@@ -32,15 +38,24 @@ namespace NonPrimitiveTypes
             var names = new string[3] {firstName, middleName, lastName};
             var formattedFullName = string.Join(" ", names);
 
-            //System.Console.WriteLine(formattedFullName);
+            System.Console.WriteLine(formattedFullName);
+            */
 
+            /*
             var text = @"Hi John 
 Look into the following paths 
 c:\folder1\folder2 
 c:\folder2\folder3";
 
             System.Console.WriteLine(text);
-            
+            */
+
+            var method = ShippingMethod.RegularAirMail;
+            System.Console.WriteLine(method);
+            System.Console.WriteLine((int)method);
+
+            var methodId = 3;
+            System.Console.WriteLine((ShippingMethod)methodId);
         }
     }
 }
