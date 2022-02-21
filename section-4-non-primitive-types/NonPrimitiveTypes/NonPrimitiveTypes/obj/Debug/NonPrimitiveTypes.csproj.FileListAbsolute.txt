@@ -1,0 +1,8 @@
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-4-non-primitive-types\NonPrimitiveTypes\NonPrimitiveTypes\bin\Debug\NonPrimitiveTypes.exe.config
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-4-non-primitive-types\NonPrimitiveTypes\NonPrimitiveTypes\bin\Debug\NonPrimitiveTypes.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-4-non-primitive-types\NonPrimitiveTypes\NonPrimitiveTypes\bin\Debug\NonPrimitiveTypes.pdb
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-4-non-primitive-types\NonPrimitiveTypes\NonPrimitiveTypes\obj\Debug\NonPrimitiveTypes.csproj.AssemblyReference.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-4-non-primitive-types\NonPrimitiveTypes\NonPrimitiveTypes\obj\Debug\NonPrimitiveTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-4-non-primitive-types\NonPrimitiveTypes\NonPrimitiveTypes\obj\Debug\NonPrimitiveTypes.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-4-non-primitive-types\NonPrimitiveTypes\NonPrimitiveTypes\obj\Debug\NonPrimitiveTypes.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-4-non-primitive-types\NonPrimitiveTypes\NonPrimitiveTypes\obj\Debug\NonPrimitiveTypes.pdb
