@@ -1,0 +1,8 @@
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-8-text\StringMethods\StringMethods\bin\Debug\StringMethods.exe.config
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-8-text\StringMethods\StringMethods\bin\Debug\StringMethods.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-8-text\StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-8-text\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.AssemblyReference.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-8-text\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-8-text\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-8-text\StringMethods\StringMethods\obj\Debug\StringMethods.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-8-text\StringMethods\StringMethods\obj\Debug\StringMethods.pdb
