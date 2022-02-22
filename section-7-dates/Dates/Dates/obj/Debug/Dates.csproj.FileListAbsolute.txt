@@ -1,0 +1,8 @@
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\Dates\Dates\bin\Debug\Dates.exe.config
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\Dates\Dates\bin\Debug\Dates.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\Dates\Dates\bin\Debug\Dates.pdb
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\Dates\Dates\obj\Debug\Dates.csproj.AssemblyReference.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\Dates\Dates\obj\Debug\Dates.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\Dates\Dates\obj\Debug\Dates.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\Dates\Dates\obj\Debug\Dates.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\Dates\Dates\obj\Debug\Dates.pdb
