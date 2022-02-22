@@ -1,0 +1,8 @@
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-9-files\DirectoryDemo\DirectoryDemo\bin\Debug\DirectoryDemo.exe.config
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-9-files\DirectoryDemo\DirectoryDemo\bin\Debug\DirectoryDemo.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-9-files\DirectoryDemo\DirectoryDemo\bin\Debug\DirectoryDemo.pdb
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-9-files\DirectoryDemo\DirectoryDemo\obj\Debug\DirectoryDemo.csproj.AssemblyReference.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-9-files\DirectoryDemo\DirectoryDemo\obj\Debug\DirectoryDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-9-files\DirectoryDemo\DirectoryDemo\obj\Debug\DirectoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-9-files\DirectoryDemo\DirectoryDemo\obj\Debug\DirectoryDemo.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-9-files\DirectoryDemo\DirectoryDemo\obj\Debug\DirectoryDemo.pdb
