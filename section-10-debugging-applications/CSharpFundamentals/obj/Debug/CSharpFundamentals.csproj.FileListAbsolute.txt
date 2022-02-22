@@ -1,0 +1,14 @@
+C:\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-10-debugging-applications\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-10-debugging-applications\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-10-debugging-applications\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-10-debugging-applications\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.AssemblyReference.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-10-debugging-applications\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-10-debugging-applications\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-10-debugging-applications\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-10-debugging-applications\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
