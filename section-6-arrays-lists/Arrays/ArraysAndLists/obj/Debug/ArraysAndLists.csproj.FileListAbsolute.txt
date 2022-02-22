@@ -1,0 +1,8 @@
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-6-arrays-lists\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-6-arrays-lists\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-6-arrays-lists\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-6-arrays-lists\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.AssemblyReference.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-6-arrays-lists\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-6-arrays-lists\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-6-arrays-lists\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-6-arrays-lists\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
