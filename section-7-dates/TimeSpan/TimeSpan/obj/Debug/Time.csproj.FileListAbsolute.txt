@@ -1,0 +1,8 @@
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe.config
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\TimeSpan\TimeSpan\bin\Debug\TimeSpan.pdb
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\TimeSpan\TimeSpan\obj\Debug\Time.csproj.AssemblyReference.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\TimeSpan\TimeSpan\obj\Debug\Time.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\TimeSpan\TimeSpan\obj\Debug\Time.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\TimeSpan\TimeSpan\obj\Debug\TimeSpan.exe
+C:\Users\lawre\Desktop\Coding\c#\c#-basics-beginners\section-7-dates\TimeSpan\TimeSpan\obj\Debug\TimeSpan.pdb
