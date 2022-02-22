@@ -18,13 +18,20 @@ namespace ControlFlow
             */
 
             // Loops
-            var numArr = new int[5] { 1, 2, 3, 4, 5 };
+            /*var numArr = new int[5] { 1, 2, 3, 4, 5 };
             var numArr2 = new int[5] { 10, 6, 4, 2, 21 };
 
-            //Loops.ForLoop(numArr);
-            //Loops.ForEach("Lawrence");
+
+            Loops.ForLoop(numArr);
+            Loops.ForEach("Lawrence");
             Loops.WhileLoop();
-            //Loops.DoWhileLoop(numArr2);
+            Loops.DoWhileLoop(numArr2);
+            */
+
+            //Console.WriteLine(PasswordGenerator.generatePassword());
+
+            // Exercises
+            Exercises.divisibleBy3Between1And100().ForEach(Console.WriteLine);
         }
     }
 }
